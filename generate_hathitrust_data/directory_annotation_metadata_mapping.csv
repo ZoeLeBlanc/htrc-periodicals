@@ -1,0 +1,11 @@
+annotation_file,metadata_file,magazine_name,local_dir,file_name,fuzzy_ratio,final_dir
+../annotated_datasets/solidarity_annotated_dataset.csv,../metadatas/solidarity_002799178.csv,solidarity,solidarity_1974_1978_HathiTrust,solidarity,100,../ht_ef_datasets/solidarity_1974_1978_HathiTrust
+../annotated_datasets/afro_asian_peoples_annotated_dataset.csv,../metadatas/afro_asian_peoples_006064527.csv,afro_asian_peoples,afro_asian_peoples_1969_1970_HathiTrust,afro_asian_peoples,100,../ht_ef_datasets/afro_asian_peoples_1969_1970_HathiTrust
+../annotated_datasets/liberator_annotated_dataset.csv,../metadatas/liberator_102427627.csv,liberator,Liberator_1961_1971_HathiTrust,liberator,100,../ht_ef_datasets/Liberator_1961_1971_HathiTrust
+../annotated_datasets/afro_asian_and_world_affairs_annotated_dataset.csv,../metadatas/afro_asian_and_world_affairs_000495647.csv,afro_asian_and_world_affairs,afro_asian_and_world_affairs_1964_1967_HathiTrust,afro_asian_and_world_affairs,100,../ht_ef_datasets/afro_asian_and_world_affairs_1964_1967_HathiTrust
+../annotated_datasets/afro_asian_bulletin_annotated_dataset.csv,../metadatas/afro_asian_bulletin_000055797.csv,afro_asian_bulletin,Afro_Asian_Bulletin_1961_1967_HathiTrust,afro_asian_bulletin,100,../ht_ef_datasets/Afro_Asian_Bulletin_1961_1967_HathiTrust
+../annotated_datasets/arab_observer_annotated_dataset.csv,../metadatas/arab_observer_000679918_006064523.csv,arab_observer,Arab_Observer_1960_1966_HathiTrust,arab_observer,100,../ht_ef_datasets/Arab_Observer_1960_1966_HathiTrust
+../annotated_datasets/arab_observer_annotated_dataset.csv,../metadatas/arab_observer_000679918_006064523.csv,arab_observer,Arab_Observer_1960_1966_HathiTrust,arab_observer,100,../ht_ef_datasets/Arab_Observer_1960_1966_HathiTrust
+../annotated_datasets/lotus_annotated_dataset.csv,../metadatas/lotus_000534608.csv,lotus,Lotus_1968_1977_HathiTrust,lotus,100,../ht_ef_datasets/Lotus_1968_1977_HathiTrust
+../annotated_datasets/scribe_annotated_dataset.csv,../metadatas/scribe_000507426.csv,scribe,the_scribe_1961_1965_HathiTrust,scribe,75,../ht_ef_datasets/the_scribe_1961_1965_HathiTrust
+../annotated_datasets/tricontinental_annotated_dataset.csv,../metadatas/tricontinental_010744668.csv,tricontinental,Tricontinental_Bulletin_1966_1980_HathiTrust,tricontinental,76,../ht_ef_datasets/Tricontinental_Bulletin_1966_1980_HathiTrust
