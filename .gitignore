@@ -1,3 +1,6 @@
 /annotated_datasets
 /metadatas
 /ht_ef_datasets
+
+*.pyc
+*.log
